@@ -205,5 +205,47 @@
       "our_kill_score": 4900,
       "opponent_kill_score": 16000
     }
-  ]
+  ],
+  "flow_videos": {
+    "resolution": "480x320",
+    "max_bitrate_kbps": 110,
+    "files": [
+      {
+        "id": "01_Skynet_Destination_loss_e177",
+        "sha256": "21a4d04a9b99b4d48237614eb128af0656e90baae42117af8d1498160ff63056",
+        "bytes": 6673520,
+        "decoded": true
+      },
+      {
+        "id": "02_McRave_HeartbreakRidge_loss_e116",
+        "sha256": "c868dd0a828755187045db5ab65515cf1fb471833272650162272d63d0a629e0",
+        "bytes": 8762557,
+        "decoded": true
+      },
+      {
+        "id": "03_Steamhammer_Benzene_loss_e091",
+        "sha256": "17aab5409db71dfd93ba77213cef493193f4a3940e2f5770770bfc49d0896246",
+        "bytes": 9146414,
+        "decoded": true
+      },
+      {
+        "id": "04_PylonPuller_Destination_win_e156",
+        "sha256": "508a28c222dfc402fafd025619fcae8048102f92fdf9a9ed2090b0df8bfe9982",
+        "bytes": 5392717,
+        "decoded": true
+      },
+      {
+        "id": "05_tscmoo-AuthorCandidate_Destination_win_e088",
+        "sha256": "b542836b6e9199c3a8ae77767ac4fdf1c11a85b5b117ec3fea2642a80c5619d8",
+        "bytes": 5560274,
+        "decoded": true
+      },
+      {
+        "id": "06_Locutus_Benzene_loss_e057",
+        "sha256": "c7a7d472789e6f50f7beb5e3eb541c782e8fc4d2fe6b27dab1154f656458392e",
+        "bytes": 4482732,
+        "decoded": true
+      }
+    ]
+  }
 }

@@ -1,0 +1,209 @@
+{
+  "method": "Retained Windows OpenBWData DLL advances the replay; software UI reads its live state. Every-frame trace (frame, RNG, resources, unit types/positions) and terminal unit counts match a separate no-drawing replay run. This check covers the recorded replay, not every internal field of the historical live match.",
+  "engine_sha256": "3B63AE1C49243AF7E354C48C2A0E4703173248B3CF0FB59007C15BF0722B5943",
+  "notes": [
+    "Silent H.264 videos at 12fps; 4 game frames per video frame.",
+    "Original .rep files are provided unchanged.",
+    "tscmoo is an identity-unconfirmed author-source candidate. This is not an official benchmark."
+  ],
+  "matches": [
+    {
+      "id": "01_Skynet_Destination_loss_e177",
+      "frames": 25143,
+      "expected_frames": 25143,
+      "video_frames": 6287,
+      "stride": 4,
+      "fps": 12,
+      "silent": true,
+      "combat_samples": 1701,
+      "first_combat_frame": 1136,
+      "last_combat_frame": 25112,
+      "players": [
+        {
+          "name": "compat1",
+          "workers": 0,
+          "army": 0,
+          "buildings": 0
+        },
+        {
+          "name": "compat2",
+          "workers": 50,
+          "army": 65,
+          "buildings": 63
+        }
+      ],
+      "state_trace_fnv64": "67a4cb5886d2b4e5",
+      "sha256": "f318911d1260fbca17e136dca66dc29503f12174e8c2e5490a98faf2da0bb668",
+      "video_sha256": "cd9c38203e880c7fa28ea3c815c7ba91bd0c67481fe3c4ef16e65c26f7e7b2e4",
+      "video_bytes": 41196055,
+      "our_result": "loss",
+      "our_kill_score": 30500,
+      "opponent_kill_score": 31000
+    },
+    {
+      "id": "02_McRave_HeartbreakRidge_loss_e116",
+      "frames": 34164,
+      "expected_frames": 34164,
+      "video_frames": 8542,
+      "stride": 4,
+      "fps": 12,
+      "silent": true,
+      "combat_samples": 1852,
+      "first_combat_frame": 4940,
+      "last_combat_frame": 34156,
+      "players": [
+        {
+          "name": "compat1",
+          "workers": 0,
+          "army": 0,
+          "buildings": 0
+        },
+        {
+          "name": "compat2",
+          "workers": 76,
+          "army": 80,
+          "buildings": 70
+        }
+      ],
+      "state_trace_fnv64": "4ee007a92e92f34d",
+      "sha256": "17e81f8051b34faeb5f0f1cff29de0da53d8549446787f6534911abf5461f7cc",
+      "video_sha256": "6cff1d7d6e2f1a7029cd5aa27b97a6d7da13a45fcc38d22a0812d4368ce9c5f3",
+      "video_bytes": 56000865,
+      "our_result": "loss",
+      "our_kill_score": 17700,
+      "opponent_kill_score": 35600
+    },
+    {
+      "id": "03_Steamhammer_Benzene_loss_e091",
+      "frames": 36613,
+      "expected_frames": 36613,
+      "video_frames": 9155,
+      "stride": 4,
+      "fps": 12,
+      "silent": true,
+      "combat_samples": 2047,
+      "first_combat_frame": 6300,
+      "last_combat_frame": 36612,
+      "players": [
+        {
+          "name": "compat1",
+          "workers": 0,
+          "army": 0,
+          "buildings": 0
+        },
+        {
+          "name": "compat2",
+          "workers": 65,
+          "army": 48,
+          "buildings": 38
+        }
+      ],
+      "state_trace_fnv64": "c6e4c1de6dfeb501",
+      "sha256": "3b9b85b60382d95467370bf28a23400156b41e512664174e548611651e5e957d",
+      "video_sha256": "35c082018eb8a7975ee2c364f085e472de519f39510b3a7d54a6c9ae3a72b7c0",
+      "video_bytes": 57231599,
+      "our_result": "loss",
+      "our_kill_score": 33100,
+      "opponent_kill_score": 24200
+    },
+    {
+      "id": "04_PylonPuller_Destination_win_e156",
+      "frames": 21020,
+      "expected_frames": 21020,
+      "video_frames": 5256,
+      "stride": 4,
+      "fps": 12,
+      "silent": true,
+      "combat_samples": 2448,
+      "first_combat_frame": 9060,
+      "last_combat_frame": 20988,
+      "players": [
+        {
+          "name": "compat1",
+          "workers": 30,
+          "army": 28,
+          "buildings": 21
+        },
+        {
+          "name": "compat2",
+          "workers": 0,
+          "army": 0,
+          "buildings": 0
+        }
+      ],
+      "state_trace_fnv64": "9b8c62d61f880d6",
+      "sha256": "109a7f6a0cda5b13b05bc7ec56a5d43dacab8bed6f77f7a472219a05bc5cb369",
+      "video_sha256": "50778b01629e5193d8b00ee99f24813e940e3211358a679c6fc4430445333413",
+      "video_bytes": 33349800,
+      "our_result": "win",
+      "our_kill_score": 23600,
+      "opponent_kill_score": 13500
+    },
+    {
+      "id": "05_tscmoo-AuthorCandidate_Destination_win_e088",
+      "frames": 21609,
+      "expected_frames": 21609,
+      "video_frames": 5404,
+      "stride": 4,
+      "fps": 12,
+      "silent": true,
+      "combat_samples": 2383,
+      "first_combat_frame": 5436,
+      "last_combat_frame": 21600,
+      "players": [
+        {
+          "name": "compat2",
+          "workers": 0,
+          "army": 0,
+          "buildings": 0
+        },
+        {
+          "name": "compat1",
+          "workers": 30,
+          "army": 29,
+          "buildings": 20
+        }
+      ],
+      "state_trace_fnv64": "6575a8c2384acb69",
+      "sha256": "221c12932c18321d254cb15d3167ae79377f0383da818950dbd71bb0de2de5e9",
+      "video_sha256": "2da2b928bf7330daf25d4921857d089efd961b7a7e16d7007df62572d176e701",
+      "video_bytes": 35224699,
+      "our_result": "win",
+      "our_kill_score": 21200,
+      "opponent_kill_score": 16300
+    },
+    {
+      "id": "06_Locutus_Benzene_loss_e057",
+      "frames": 16277,
+      "expected_frames": 16277,
+      "video_frames": 4071,
+      "stride": 4,
+      "fps": 12,
+      "silent": true,
+      "combat_samples": 1337,
+      "first_combat_frame": 10292,
+      "last_combat_frame": 16248,
+      "players": [
+        {
+          "name": "compat2",
+          "workers": 76,
+          "army": 39,
+          "buildings": 43
+        },
+        {
+          "name": "compat1",
+          "workers": 0,
+          "army": 0,
+          "buildings": 0
+        }
+      ],
+      "state_trace_fnv64": "8e7ee13ce11a6c1e",
+      "sha256": "aaa71e0e524c2042752efb7bf868e790509c607e1f6aee9443fd0c970fd32916",
+      "video_sha256": "64d9ac63a0c8e282c072c1e83f0df3fa2b51973b279591f476e07e093a8d7515",
+      "video_bytes": 26716626,
+      "our_result": "loss",
+      "our_kill_score": 4900,
+      "opponent_kill_score": 16000
+    }
+  ]
+}

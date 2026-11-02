@@ -1,0 +1,74 @@
+[
+  {
+    "id": "01_Skynet_Destination_loss_e177",
+    "displayName": "Skynet",
+    "opponent": "Skynet",
+    "mapLabel": "Destination",
+    "our_result": "loss",
+    "video": "media/01_Skynet_Destination_loss_e177.mp4",
+    "poster": "media/01_Skynet_Destination_loss_e177.jpg",
+    "replay": "replays/01_Skynet_Destination_loss_e177.rep",
+    "videoDuration": 523.9166666666666,
+    "combatSeconds": 270.4166666666667
+  },
+  {
+    "id": "02_McRave_HeartbreakRidge_loss_e116",
+    "displayName": "McRave",
+    "opponent": "McRave",
+    "mapLabel": "HeartbreakRidge",
+    "our_result": "loss",
+    "video": "media/02_McRave_HeartbreakRidge_loss_e116.mp4",
+    "poster": "media/02_McRave_HeartbreakRidge_loss_e116.jpg",
+    "replay": "replays/02_McRave_HeartbreakRidge_loss_e116.rep",
+    "videoDuration": 711.8333333333334,
+    "combatSeconds": 297
+  },
+  {
+    "id": "03_Steamhammer_Benzene_loss_e091",
+    "displayName": "Steamhammer",
+    "opponent": "Steamhammer",
+    "mapLabel": "Benzene",
+    "our_result": "loss",
+    "video": "media/03_Steamhammer_Benzene_loss_e091.mp4",
+    "poster": "media/03_Steamhammer_Benzene_loss_e091.jpg",
+    "replay": "replays/03_Steamhammer_Benzene_loss_e091.rep",
+    "videoDuration": 762.9166666666666,
+    "combatSeconds": 197
+  },
+  {
+    "id": "04_PylonPuller_Destination_win_e156",
+    "displayName": "PylonPuller",
+    "opponent": "PylonPuller",
+    "mapLabel": "Destination",
+    "our_result": "win",
+    "video": "media/04_PylonPuller_Destination_win_e156.mp4",
+    "poster": "media/04_PylonPuller_Destination_win_e156.jpg",
+    "replay": "replays/04_PylonPuller_Destination_win_e156.rep",
+    "videoDuration": 438.0,
+    "combatSeconds": 310.0
+  },
+  {
+    "id": "05_tscmoo-AuthorCandidate_Destination_win_e088",
+    "displayName": "tscmoo 作者源码候选",
+    "opponent": "tscmoo-AuthorCandidate",
+    "mapLabel": "Destination",
+    "our_result": "win",
+    "video": "media/05_tscmoo-AuthorCandidate_Destination_win_e088.mp4",
+    "poster": "media/05_tscmoo-AuthorCandidate_Destination_win_e088.jpg",
+    "replay": "replays/05_tscmoo-AuthorCandidate_Destination_win_e088.rep",
+    "videoDuration": 450.3333333333333,
+    "combatSeconds": 278.625
+  },
+  {
+    "id": "06_Locutus_Benzene_loss_e057",
+    "displayName": "Locutus",
+    "opponent": "Locutus",
+    "mapLabel": "Benzene",
+    "our_result": "loss",
+    "video": "media/06_Locutus_Benzene_loss_e057.mp4",
+    "poster": "media/06_Locutus_Benzene_loss_e057.jpg",
+    "replay": "replays/06_Locutus_Benzene_loss_e057.rep",
+    "videoDuration": 339.25,
+    "combatSeconds": 229
+  }
+]
